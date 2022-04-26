@@ -3,7 +3,7 @@
 
 Android Studio application that allows a user to rate restaurants that they have visited and store the reviews on their device’s **Internal Storage**. Applcaiton Reads and Writes data from/to the linked **csv** file.
 
-###### Each *Review* stores:
+###### Each **Review** stores:
 * Restaurant's name 
 * If the Restaurant is in the user's favorite list 
 * The date of the Review
