@@ -1,7 +1,7 @@
 # Restaurant-Rater-App
 
 
-Android Studio application that allows a user to rate restaurants that they have visited and store the reviews on their device’s **Internal Storage**. Applcaiton Reads and Writes data from/to the linked **CSV** file.
+Android Studio application that allows a user to rate restaurants that they have visited and store the reviews on their device’s **Internal Storage**. The applcaiton Reads and Writes data from/to the internally linked **CSV** file.
 
 #### Each **Review** stores:
 * The restaurant's name 
